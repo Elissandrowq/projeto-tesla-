@@ -1,7 +1,14 @@
-Colocar projeto no GitHub
-sequencia para subir projeto para GitHub
+Projeto feito com as tecnologias 
+HTML 5 - CSS 3 - javascript
 
-git initial
+Projeto iniciado com semanticas do <Html:5>
+E estilizado com CSS 3
+E foi executado as animações com a parte do javascript
+Projeto estruturado com linguagens básicas 
+
+Segue abaixo de como e feito para subir projeto no GitHub
+
+git init
 git add .
 git commit -m "projeto-tesla"
 git branch -M main
