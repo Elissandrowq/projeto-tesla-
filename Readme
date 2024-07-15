@@ -1,0 +1,9 @@
+Colocar projeto no GitHub
+sequencia para subir projeto para GitHub
+
+git initial
+git add .
+git commit -m "projeto-tesla"
+git branch -M main
+git remote add origin https://github.com/Elissandrowq/projeto-tesla-.git
+git push -u origin main
