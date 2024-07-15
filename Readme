@@ -11,6 +11,6 @@ Segue abaixo de como e feito para subir projeto no GitHub
 git init
 git add .
 git commit -m "projeto-tesla"
-git branch -M main
+git branch -m main
 git remote add origin https://github.com/Elissandrowq/projeto-tesla-.git
 git push -u origin main
